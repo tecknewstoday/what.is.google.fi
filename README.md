@@ -1,6 +1,6 @@
 # What is google fi ?
 
-[![What is google fi](pink.png)](https://github.com/tecknewstoday/what.is.google.fi)
+[![What is google fi](pink.png)](https://icncomputer.com/what-is-google-fi/)
 
 It's now been a few years since Google first launched Project Fi, now called Google Fi. It first made an appearance in 2015, seeking to deal with some of the pain points of US carriers. 
 
